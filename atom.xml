@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiancheng2002.github.io</id>
     <title>小朱</title>
-    <updated>2021-10-26T12:46:58.892Z</updated>
+    <updated>2021-10-26T12:54:10.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiancheng2002.github.io"/>
     <link rel="self" href="https://tiancheng2002.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://tiancheng2002.github.io/images/avatar.png</logo>
     <icon>https://tiancheng2002.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小朱</rights>
+    <entry>
+        <title type="html"><![CDATA[嘿嘿]]></title>
+        <id>https://tiancheng2002.github.io/post/mo-mo/</id>
+        <link href="https://tiancheng2002.github.io/post/mo-mo/">
+        </link>
+        <updated>2021-10-26T12:53:01.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好，我是hyw，我是笨蛋，我喜欢嘿嘿嘿......</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mybatis]]></title>
         <id>https://tiancheng2002.github.io/post/mybatis/</id>
