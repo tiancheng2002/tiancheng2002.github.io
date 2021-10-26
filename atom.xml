@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaozhu.github.io</id>
+    <id>https://tiancheng2002.github.io/xiaozhu.github.io</id>
     <title>小朱</title>
-    <updated>2021-10-26T11:59:53.141Z</updated>
+    <updated>2021-10-26T12:05:38.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xiaozhu.github.io"/>
-    <link rel="self" href="https://xiaozhu.github.io/atom.xml"/>
+    <link rel="alternate" href="https://tiancheng2002.github.io/xiaozhu.github.io"/>
+    <link rel="self" href="https://tiancheng2002.github.io/xiaozhu.github.io/atom.xml"/>
     <subtitle>没有失败，只有暂时停止的成功</subtitle>
-    <logo>https://xiaozhu.github.io/images/avatar.png</logo>
-    <icon>https://xiaozhu.github.io/favicon.ico</icon>
+    <logo>https://tiancheng2002.github.io/xiaozhu.github.io/images/avatar.png</logo>
+    <icon>https://tiancheng2002.github.io/xiaozhu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小朱</rights>
     <entry>
         <title type="html"><![CDATA[Mybatis]]></title>
-        <id>https://xiaozhu.github.io/post/mybatis/</id>
-        <link href="https://xiaozhu.github.io/post/mybatis/">
+        <id>https://tiancheng2002.github.io/xiaozhu.github.io/post/mybatis/</id>
+        <link href="https://tiancheng2002.github.io/xiaozhu.github.io/post/mybatis/">
         </link>
         <updated>2021-10-26T05:20:29.000Z</updated>
         <content type="html"><![CDATA[<h1 id="mybatis">Mybatis</h1>
@@ -842,8 +842,8 @@ public void selectID(){
     </entry>
     <entry>
         <title type="html"><![CDATA[你好]]></title>
-        <id>https://xiaozhu.github.io/post/ni-hao/</id>
-        <link href="https://xiaozhu.github.io/post/ni-hao/">
+        <id>https://tiancheng2002.github.io/xiaozhu.github.io/post/ni-hao/</id>
+        <link href="https://tiancheng2002.github.io/xiaozhu.github.io/post/ni-hao/">
         </link>
         <updated>2021-10-26T05:15:42.000Z</updated>
         <content type="html"><![CDATA[<p>你好呀！😀</p>
@@ -851,8 +851,8 @@ public void selectID(){
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xiaozhu.github.io/post/hello-gridea/</id>
-        <link href="https://xiaozhu.github.io/post/hello-gridea/">
+        <id>https://tiancheng2002.github.io/xiaozhu.github.io/post/hello-gridea/</id>
+        <link href="https://tiancheng2002.github.io/xiaozhu.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
